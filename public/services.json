@@ -1,0 +1,50 @@
+[
+  {
+    "id": "001",
+    "name": "Singapore",
+    "duration": 7,
+    "price": 450,
+    "details": "Tourism in Singapore is a major industry and contributor to the Singaporean economy, attracting more than 19.1 million international tourists in 2019, more than three times Singapore's total population.Singapore is the 5th most visited city in the world, and 2nd in Asia-Pacific",
+    "pic": "https://raw.githubusercontent.com/arifulsajib/pictures-for-projects/main/Tours/tour1.jpg"
+  },
+  {
+    "id": "002",
+    "name": "Brooklyn Bridge",
+    "duration": 10,
+    "price": 500,
+    "details": "Stretching across the East River, the iconic Brooklyn Bridge opened up back in 1883 to carry traffic (nonautomotive at the time) between Lower Manhattan and Brooklyn. One of the most recognizable parts of the New York City skyline, the bridge has been featured in movies and on television shows, and is a real piece of New York City history.",
+    "pic": "https://raw.githubusercontent.com/arifulsajib/pictures-for-projects/main/Tours/tour2.jpg"
+  },
+  {
+    "id": "003",
+    "name": "Rhodes",
+    "duration": 5,
+    "price": 225,
+    "details": "The largest of the twelve Dodecanese islands on the Aegean's eastern edge, Rhodes is also its most popular. The well-preserved medieval city of Rhodes sits at the north of the island of the same name. High rise hotels line the northern and eastern coastlines.Small villages and resorts dot the island's other shores. ",
+    "pic": "https://raw.githubusercontent.com/arifulsajib/pictures-for-projects/main/Tours/tour3.jpg"
+  },
+  {
+    "id": "004",
+    "name": "Ankaran",
+    "duration": 12,
+    "price": 350,
+    "details": "Take a stroll amid olive groves and vineyards, and descend from the top of the Ankaran peninsula to reach the cliff that slopes steeply into the sea. The height of the cliff walls ranges from 12 to 21 metres. The cliff is overgrown by numerous indigenous plants, while the stony sea bed is home to plenty of life",
+    "pic": "https://raw.githubusercontent.com/arifulsajib/pictures-for-projects/main/Tours/tour4.jpg"
+  },
+  {
+    "id": "005",
+    "name": "Island",
+    "duration": 7,
+    "price": 200,
+    "details": "​Tourism to islands is a special form of tourism that often requires specific consideration as there are distinctive characteristics of islands such as fragile environments and historical and socio-cultural aspects that can result in unique challenges to developing a successful tourism destination. ",
+    "pic": "https://raw.githubusercontent.com/arifulsajib/pictures-for-projects/main/Tours/tour5.jpg"
+  },
+  {
+    "id": "006",
+    "name": "Netherland",
+    "duration": 8,
+    "price": 250,
+    "details": "The summer heat has disappeared, which means you can enjoy the best season of the year in the Netherlands: fall! Go for an amazing walk through the mysterious autumn landscape, experience our extraordinary art and culture in the vibrant cities, or breathe the fresh air on the quiet beaches. See you soon in the Netherlands!",
+    "pic": "https://raw.githubusercontent.com/arifulsajib/pictures-for-projects/main/Tours/tour6.jpg"
+  }
+]
