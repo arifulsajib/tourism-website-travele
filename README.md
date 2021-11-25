@@ -27,5 +27,5 @@ Users will able to:
 ### Links
 
 - Live Site: [Travelle](https://travele-tourism.web.app/)
-- Client Code: [Github](https://github.com/programming-hero-web-course1/tourism-or-delivery-website-client-side-arifulsajib)
-- Server Code: [Github](https://github.com/programming-hero-web-course1/tourism-or-delivery-website-server-side-arifulsajib)
+- Client Code: [Github](https://github.com/arifulsajib/tourism-website-travele)
+- Server Code: [Github](https://github.com/arifulsajib/tourism-website-travele-server)
