@@ -16,7 +16,7 @@ const TourBooking = () => {
   } = useForm();
 
   useEffect(() => {
-    fetch(`https://lit-river-98467.herokuapp.com/tour/${tourId}`)
+    fetch(`https://travele-tourism-server.onrender.com/tour/${tourId}`)
       .then((res) => res.json())
       .then((data) => setTour(data));
   }, [tourId]);
@@ -24,7 +24,7 @@ const TourBooking = () => {
   const onSubmit = (data) => {
     data.tourName = tour.name;
     console.log(data);
-    fetch("https://lit-river-98467.herokuapp.com/addBooking", {
+    fetch("https://travele-tourism-server.onrender.com/addBooking", {
       method: "POST",
       headers: { "content-type": "application/json" },
       body: JSON.stringify(data)

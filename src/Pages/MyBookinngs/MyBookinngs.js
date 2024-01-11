@@ -9,7 +9,7 @@ const MyBookinngs = () => {
   const [isLoading, setLoading] = useState(true);
 
   useEffect(() => {
-    fetch(`https://lit-river-98467.herokuapp.com/myBookings/${user?.email}`)
+    fetch(`https://travele-tourism-server.onrender.com/myBookings/${user?.email}`)
       .then((res) => res.json())
       .then((data) => {
         setBookings(data);
@@ -20,7 +20,7 @@ const MyBookinngs = () => {
   const handleDelete = (id) => {
     const checker = window.confirm("Are you sure to delete?");
     if (checker) {
-      fetch(`https://lit-river-98467.herokuapp.com/deleteBooking/${id}`, {
+      fetch(`https://travele-tourism-server.onrender.com/deleteBooking/${id}`, {
         method: "DELETE",
         headers: { "content-type": "application/json" }
       })

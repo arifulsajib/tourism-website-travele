@@ -10,7 +10,7 @@ const AddTours = () => {
   } = useForm();
 
   const onSubmit = (data) => {
-    fetch("https://lit-river-98467.herokuapp.com/addTour", {
+    fetch("https://travele-tourism-server.onrender.com/addTour", {
       method: "POST",
       headers: { "content-type": "application/json" },
       body: JSON.stringify(data)

@@ -7,7 +7,7 @@ const AllTours = () => {
   const [isLoading, setLoading] = useState(true);
 
   useEffect(() => {
-    fetch("https://lit-river-98467.herokuapp.com/tours")
+    fetch("https://travele-tourism-server.onrender.com/tours")
       .then((res) => res.json())
       .then((data) => {
         setTours(data);
